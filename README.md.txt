@@ -9,4 +9,7 @@ Tools
 - Matplotlib
 
 
-Ajin
+## Progress
+- Day 1: Python basics and logic
+- Day 2: NumPy arrays and raster-style analysis
+
