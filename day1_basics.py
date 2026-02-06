@@ -1,4 +1,3 @@
-
 lst_values = [30.5,31.2,32.8,29.9,33.1]
 
 print('/nLST Values:', lst_values)
