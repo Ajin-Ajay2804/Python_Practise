@@ -14,4 +14,6 @@ Tools
 - Day 2: NumPy arrays and raster-style analysis
 - Day 3: CSV handling and attribute-table-style analysis
 - Day 4: Pandas for attribute table analysis and filtering
+- Day 5: Data visualization using Matplotlib (LST & NDVI plots)
+
 
