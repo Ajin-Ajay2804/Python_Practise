@@ -15,5 +15,7 @@ Tools
 - Day 3: CSV handling and attribute-table-style analysis
 - Day 4: Pandas for attribute table analysis and filtering
 - Day 5: Data visualization using Matplotlib (LST & NDVI plots)
+- Day 6: Reading GeoTIFF raster using Rasterio and computing statistics
+
 
 
