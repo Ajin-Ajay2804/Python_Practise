@@ -14,7 +14,7 @@ if nodata_value is not None:
 
 
 plt.figure()
-plt.imshow(lst_array,cmap= 'viridis')
+plt.imshow(lst_array,cmap= 'jgist_rainbow')
 plt.colorbar(label= "LST (°C)")
 plt.title('Land Surface Temperature Map')
 plt.xlabel('Column Index')
