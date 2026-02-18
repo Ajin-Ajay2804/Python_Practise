@@ -16,6 +16,8 @@ Tools
 - Day 4: Pandas for attribute table analysis and filtering
 - Day 5: Data visualization using Matplotlib (LST & NDVI plots)
 - Day 6: Reading GeoTIFF raster using Rasterio and computing statistics
+- Day 7: Raster visualization using Matplotlib
+
 
 
 
